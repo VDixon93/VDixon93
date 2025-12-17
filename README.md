@@ -22,7 +22,9 @@ My first journey into security and doing it for 4 years is what driven me to del
 | Skill                                            | Associated Project          |
 |--------------------------------------------------|-----------------------------|
 
-| Security Organization Worksheet                  | [Security Organization Worksheet (PDF)](v.dixon%20Security%20organization%20worksheet%20(1).pdf)
+| Security Organization Worksheet                  | <a href="v.dixon%20Security%20organization%20worksheet%20(1).pdf">
+  Security Organization Worksheet (PDF)
+</a>
 
 
 | Update a file through a Python Algorithm         | [Update a File Through a Python Algorithm (PDF)](v.dixon%20-%20Update%20a%20file%20through%20a%20Python%20algorithm%20(1).pdf)|
