@@ -41,6 +41,7 @@ My first journey into security and doing it for 4 years is what driven me to del
 
 
 
+
 ## Certifications
 <div>
 
