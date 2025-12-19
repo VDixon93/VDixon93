@@ -7,12 +7,12 @@ https://tryhackme.com/p/victoriacdixon93
 
 [Brief Introduction]
 
-I am a recent graduate of Merit America with a strong passion for cybersecurity and a dedication to analyzing, detecting, and resolving software and internet-based challenges.
+I am a recent Merit America graduate with a strong passion for cybersecurity and a demonstrated commitment to analyzing, detecting, and resolving software and internet-based security challenges.
 
 
 ## Objective
 
-My first journey into security and doing it for 4 years is what driven me to delevop not only a love but a hard dedication and passion for cybersecurity, and transitioning into this careeer field has made me eager and excited to specially land a job role into either being a security operations center(SOC) as a tier 1 analyst or threat detection and response analyst.
+My introduction to security four years ago sparked not only a deep interest but also a strong dedication to the field of cybersecurity. This journey has strengthened my passion and motivated my transition into a full-time cybersecurity career. I am eager to contribute in a role such as a Tier 1 SOC Analyst or a Threat Detection and Response Analyst, where I can apply my skills to support effective security operations.
 
 
  
