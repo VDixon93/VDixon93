@@ -81,7 +81,8 @@ https://coursera.org/share/ba10de85d75c79a7b15d7d151095087f
 - 👯 I’m looking to collaborate on more pentesting, password strengths, phising, and ransomware projects into the cybersecurity world.
 - 🤔 I’m looking for help to land a role in either threat detection or SOC analyst(Tier 1).
 - 💬 Ask me about fruits, anime, cyber threat detection, and conspiracy's.
-- 📫 How to reach me: [![Email](https://img.shields.io/badge/Email-Contact_Me-red?logo=gmail)](mailto:victoriacdixon93@gmail.com) [![LinkedIn](https://img.shields.io/badge/LinkedIn-Victoria_Dixon-blue?logo=linkedin)](https://www.linkedin.com/in/victoria-cdixon-/) [![Slack](https://img.shields.io/badge/Slack-Message_Me-4A154B?logo=slack)](https://app.slack.com/client/T03K06XA8DQ/dms)
+- 📫 How to reach me: [![Email](https://img.shields.io/badge/Email-Contact_Me-red?logo=gmail)](mailto:victoriacdixon93@gmail.com) [![LinkedIn](https://img.shields.io/badge/LinkedIn-Victoria_Dixon-blue?logo=linkedin)](https://www.linkedin.com/in/victoria-cdixon-/) [![Slack](https://img.shields.io/badge/Slack-Message_Me-4A154B?logo=slack)](https://app.slack.com/client/T03K06XA8DQ/dms) [![Microsoft Profile](https://img.shields.io/badge/Microsoft-Profile-blue?logo=microsoft)](https://account.microsoft.com/profile/)
+
 
 
 - 😄 Pronouns: She/Her
