@@ -86,5 +86,5 @@ https://coursera.org/share/ba10de85d75c79a7b15d7d151095087f
 
 
 - 😄 Pronouns: She/Her
-- ⚡ Fun fact: I am a die hard anime fan, introvert & extrovert, cat lover, sports fan, and working on revamping baking business, I have a youtube foodie channel - [![YouTube Channel](https://img.shields.io/badge/YouTube-Eats_With_Vee-red?logo=youtube)](https://www.youtube.com/@eatswithvee)
+- ⚡ Fun fact: I am a die hard anime fan, introvert & extrovert, cat lover, sports fan, and working on revamping my baking business, and I also have a youtube foodie review channel - [![YouTube Channel](https://img.shields.io/badge/YouTube-Eats_With_Vee-red?logo=youtube)](https://www.youtube.com/@eatswithvee)
 
