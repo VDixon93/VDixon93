@@ -11,7 +11,7 @@ My introduction to security four years ago sparked not only a deep interest but 
 ⚡ Fun facts:
 - I am a die hard Anime fan
 - Introvert & Extrovert
-- cat lover & basketball, football, and softball fan
+- cat lover, basketball, football, and softball fan
 - planning to revamp my small baking business - [![Instagram](https://img.shields.io/badge/instagram-@veevalicioussweets-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/veevalicioussweets?igsh=MWZkN2R50G1yMnduMA%3D%3D&utm_source=qr)
 - I have a youtube foodie review channel - [![YouTube Channel](https://img.shields.io/badge/YouTube-Eats_With_Vee-red?logo=youtube)](https://www.youtube.com/@eatswithvee)
 
